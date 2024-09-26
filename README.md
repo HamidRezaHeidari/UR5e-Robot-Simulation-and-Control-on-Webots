@@ -23,9 +23,9 @@ Step 2 : Labeling and Training on YOLOv8
 <p align="center">
   <img title="Fig1" height="410" src="images/Figure_1.png">
   <br />
-  <img title="Fig2" height="410" src="images/Figure_2.png">
+  <img title="Fig2" height="410" src="images/Figure_2.jpeg">
   <br />
-  <img title="Fig3" height="410" src="images/Figure_3.png">
+  <img title="Fig3" height="410" src="images/Figure_3.jpeg">
 </p>
 
 
@@ -35,6 +35,6 @@ After training, Robot can detect objects and give the coordination of objects
 <p align="center">
   <img title="Fig1" height="410" src="images/Figure_4.png">
   <br />
-  <img title="Fig2" height="410" src="images/Figure_5.png">
+  <img title="Fig2" height="210" src="images/Figure_5.png">
   <br />
 </p>

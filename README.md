@@ -24,6 +24,9 @@ Step 2 : Labeling and Training on YOLOv8
   <img title="Fig1" height="410" src="images/Figure_1.jpg">
   <br />
   <img title="Fig2" height="410" src="images/Figure_2.jpg">
+   <br />
+  <br />
+  <br />
   <br />
   <img title="Fig3" height="410" src="images/Figure_3.png">
 </p>
